@@ -1,5 +1,3 @@
-package StudiKasus2;
-
 public class node {
     pasien data;
     node next;
